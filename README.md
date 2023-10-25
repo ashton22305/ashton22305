@@ -1,4 +1,4 @@
-👋 Hi, I’m Ashton!
+# 👋 Hi, I’m Ashton!
 - I'm a student at The Ohio State University studying Computer Science and Engineering!
 - I'll be keeping both coursework and personal projects on this account.
 
